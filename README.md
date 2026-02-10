@@ -72,7 +72,7 @@ Edit the message content in `data/message.ts`:
 export const messageData = {
   title: 'Happy National Princess Day 👑',
   subtitle: 'To my favorite princess — today, and every day.',
-  body: `Your custom message here...`,
+  body: `I wanted to do something special for you today, for this valentine day. I made something special for you.`,
   // ...
 };
 ```
